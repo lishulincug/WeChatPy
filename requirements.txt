@@ -1,5 +1,5 @@
 
-requests==2.14.2
+Requests== 2.14.2
 pypng==0.0.18
 PyQRCode==1.2.1
 Pillow==5.0.0
